@@ -27,7 +27,7 @@ else:
     elif(computer==-1 and you==1):
         print("You Lose!")
     else:
-        print("Something went wrong")
+        print("OOPS!Something went wrong")
 
 
 
