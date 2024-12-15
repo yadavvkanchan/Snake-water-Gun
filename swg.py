@@ -2,7 +2,7 @@ import random
 
 computer = random.choice([0, 1, -1])
 
-print("1:Snake 0:Water -1:Gun ")
+print("1:Snake\n0:Water\n-1:Gun")
 you = int(input("Enter your choice: "))
 dict = {1:"snake",0:"Water",-1: "Gun"}
 youdict = dict[you]
